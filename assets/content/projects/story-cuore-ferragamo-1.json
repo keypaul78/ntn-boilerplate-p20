@@ -2,6 +2,15 @@
   "project_type": "story",
   "date": "2021-02-26T18:13:05.865Z",
   "title": "Cuore Ferragamo",
-  "body": "<h5 class=\"txt-j\">Client: Vertime</h5>\n<a class=\"btn btn-petroil btn-visit\" href=\"https://roughdesign.it/prototype/cuore-ferragamo/\" target=\"_blank\" rel=\"noopener noreferrer\">Teaser LP</a>\n<img class=\"img-fluid\" id=\"launch-action\" src=\"static/img/cuore-ferragamo-01.jpg\" alt=\"Splash page\">\n<img class=\"img-fluid lazyloaded\" src=\"static/img/cuore-ferragamo-02.jpg\" alt=\"Home page\">\n<img class=\"img-fluid spaced lazyloaded\" alt=\"Gif creation\" src=\"static/img/cuore-ferragamo-03.jpg\">\n<img class=\"img-fluid spaced lazyloaded\" alt=\"Some screenshots\" src=\"static/img/cuore-ferragamo-04.jpg\">\n<img class=\"img-fluid spaced lazyloaded\" alt=\"Registration page\" src=\"static/img/cuore-ferragamo-05.jpg\">\n<img class=\"img-fluid spaced lazyloaded\" src=\"static/img/cuore-ferragamo-06.jpg\">",
-  "description": "UI/UX Design and Frontend Development of a pre-order platform"
+  "body": "<h5 class=\"txt-j\">Client: Vertime</h5>\n<a class=\"btn btn-petroil btn-visit\" href=\"https://roughdesign.it/prototype/cuore-ferragamo/\" target=\"_blank\" rel=\"noopener noreferrer\">Teaser LP</a>",
+  "description": "UI/UX Design and Frontend Development of a pre-order platform",
+  "cover": "",
+  "gallery": [
+    "/img/cuore-ferragamo-01.jpg",
+    "/img/cuore-ferragamo-02.jpg",
+    "/img/cuore-ferragamo-03.jpg",
+    "/img/cuore-ferragamo-04.jpg",
+    "/img/cuore-ferragamo-05.jpg",
+    "/img/cuore-ferragamo-06.jpg"
+  ]
 }
